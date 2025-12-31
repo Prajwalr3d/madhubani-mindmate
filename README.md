@@ -58,19 +58,41 @@ HF_TOKEN=your_huggingface_token_here
 uvicorn app:app --reload
 python app.py
 
+---------------------------------------------------------------------------SCREENSHORTS--------------------------------------------------------------------------------
+## 📸 Project Screenshots
 
------------------------------------------------------------------------------------------------
-ALL SCREENSHORTS LINKS:
+### 🔁 Flow Chart
+![Flow Chart](https://github.com/user-attachments/assets/729704fb-9606-4b2f-87ef-b2772d5e1222)
+
+---
+
+### 🗂️ Data Flow Diagram (DFD)
+![DFD](https://github.com/user-attachments/assets/e3c4db17-e83b-4590-8505-aecca081cb5f)
+
+---
+
+### 💬 Chatbot Interface
+
+![Chat UI 1](https://github.com/user-attachments/assets/f36df54f-fa0b-4544-8d69-92a898387861)
+
+![Chat UI 2](https://github.com/user-attachments/assets/1e429df2-7caa-4242-ac22-91ef604d509b)
+
+![Chat UI 3](https://github.com/user-attachments/assets/0798ff37-16fc-42ce-aa8f-d4ea000e15cc)
+
+![Chat UI 4](https://github.com/user-attachments/assets/e9144fd9-abcb-488a-b66b-1a1049b377dd)
+
+![Chat UI 5](https://github.com/user-attachments/assets/3473a27a-3378-4b36-b32c-a654aa0eb6ec)
+
+---
+
+### 🧠 Fine-tuning Response Example
+![Fine Tuning](https://github.com/user-attachments/assets/10cacbd9-a9d3-4cfe-b303-f423f4a2ee14)
+
+---
+
+## 🔗 Additional Media
+📁 Full-resolution screenshots and videos:  
 https://drive.google.com/drive/folders/1vx38qRDrQfYZEtjU05o21RyRKYwWdPEH?usp=drive_link
-------------------------------------------------------------------------------------------------
-
-
-## Screen Short
-FLOW CHART---
-![CHAT UI](https://github.com/user-attachments/assets/729704fb-9606-4b2f-87ef-b2772d5e1222)
-
-DFD------
-![dfd_page-0001](https://github.com/user-attachments/assets/e3c4db17-e83b-4590-8505-aecca081cb5f)
 
 
 
@@ -78,15 +100,8 @@ DFD------
 
 
 
-CHAT BOT INTERFACE
-<img width="1366" height="768" alt="Screenshot (432)" src="https://github.com/user-attachments/assets/f36df54f-fa0b-4544-8d69-92a898387861" />
-<img width="1366" height="768" alt="Screenshot (431)" src="https://github.com/user-attachments/assets/1e429df2-7caa-4242-ac22-91ef604d509b" />
-<img width="1366" height="768" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/0798ff37-16fc-42ce-aa8f-d4ea000e15cc" />
-<img width="1366" height="768" alt="Screenshot (429)" src="https://github.com/user-attachments/assets/e9144fd9-abcb-488a-b66b-1a1049b377dd" />
-<img width="1366" height="768" alt="Screenshot (428)" src="https://github.com/user-attachments/assets/3473a27a-3378-4b36-b32c-a654aa0eb6ec" />
 
-###FINE TUNNING RESPONSE
-<img width="1366" height="768" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/10cacbd9-a9d3-4cfe-b303-f423f4a2ee14" />
+
 
 -------------------------------------------------#Future Enhancements [ROUND 2]---------------------------------------------------------------------------------------------------------------------------
 User mood tracking and journaling
