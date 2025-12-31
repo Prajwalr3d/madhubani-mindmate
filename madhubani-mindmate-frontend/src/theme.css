@@ -1,0 +1,78 @@
+/* 🌸 Madhubani MindMate Theme — Calm Gradient + Patterned Aesthetic */
+
+/* Smooth gradient animation */
+@keyframes gradientFlow {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  /* Body background — flowing violet-pink gradient */
+  body {
+    font-family: 'Poppins', 'Segoe UI', sans-serif;
+    background: linear-gradient(-45deg, #fde2f3, #e2cffe, #f9d1e6, #e8d7ff);
+    background-size: 400% 400%;
+    animation: gradientFlow 18s ease infinite;
+    color: #1b424e;
+    margin: 0;
+    padding: 0;
+    transition: background 1s ease-in-out;
+  }
+  
+  /* Subtle glowing border inspired by Madhubani outlines */
+  .madhubani-border {
+    border: 2px solid transparent;
+    border-image: linear-gradient(to right, #80f0ff, #84d6fc, #8bfafa);
+    border-image-slice: 1;
+    box-shadow: 0 0 20px rgba(186, 148, 255, 0.2);
+    border-radius: 12px;
+  }
+  
+  /* Decorative floral pattern header (optional SVG background) */
+  .header-pattern {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 200 200'%3E%3Cg fill='none' stroke='%23C084FC' stroke-width='0.5'%3E%3Ccircle cx='100' cy='100' r='40'/%3E%3Ccircle cx='100' cy='100' r='70'/%3E%3Ccircle cx='100' cy='100' r='100'/%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: repeat;
+    background-size: 200px;
+    opacity: 0.05;
+  }
+  
+  /* Buttons */
+  button {
+    transition: all 0.25s ease-in-out;
+  }
+  
+  button:hover {
+    transform: scale(1.03);
+  }
+  
+  /* Scrollbar aesthetics */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f3e8ff;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #d8b4fe, #fbcfe8);
+    border-radius: 10px;
+  }
+  
+  /* Gentle text glow for violet headings */
+  .text-violet-700 {
+    text-shadow: 0 0 4px rgba(168, 85, 247, 0.15);
+  }
+  
+  /* Card hover glow */
+  .card-hover:hover {
+    box-shadow: 0 4px 20px rgba(186, 148, 255, 0.25);
+    transform: translateY(-3px);
+  }
+  

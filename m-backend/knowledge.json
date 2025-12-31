@@ -1,0 +1,703 @@
+[
+{
+  "id": 1,
+  "q": "How to manage stress before exams?",
+  "a": "Break study time into 45-minute sessions with 10-minute breaks. Avoid multitasking, and use breathing exercises before each session. A calm mind recalls better than a tense one."
+},
+{
+  "id": 2,
+  "q": "How to improve sleep quality?",
+  "a": "Stick to a fixed bedtime and wake time, even on weekends. Reduce caffeine after 4 PM and screen use before bed. Use a soft warm light and relax with music or mindfulness."
+},
+{
+  "id": 3,
+  "q": "What is mindfulness and why is it important?",
+  "a": "Mindfulness is paying attention to the present moment without judgment. It calms the nervous system, reduces anxiety, and increases focus and emotional stability."
+},
+{
+  "id": 4,
+  "q": "What to do during a panic attack?",
+  "a": "Try the 5-4-3-2-1 grounding method: identify 5 things you see, 4 you touch, 3 you hear, 2 you smell, and 1 you taste. Slow your breathing. Panic always passes."
+},
+{
+  "id": 5,
+  "q": "How to stay motivated when feeling low?",
+  "a": "Break tasks into tiny goals. Celebrate progress. Write what you value most and connect your tasks to that purpose. Motivation grows from motion."
+},
+{
+  "id": 6,
+  "q": "How to overcome loneliness?",
+  "a": "Start with small social actions — greet someone, join a hobby group, message an old friend. Connection grows from repeated small steps."
+},
+{
+  "id": 7,
+  "q": "What are grounding techniques?",
+  "a": "Grounding reconnects you with the present. Try deep breathing, cold water splash, touching textured objects, or naming objects around you."
+},
+{
+  "id": 8,
+  "q": "Why is morning sunlight important?",
+  "a": "Morning sunlight resets your circadian rhythm, improving sleep, alertness, and mood. 10–15 minutes of morning sunlight daily is ideal."
+},
+{
+  "id": 9,
+  "q": "How to deal with overthinking?",
+  "a": "Write thoughts down and separate worries from solvable problems. Practice slow breathing and use short meditation breaks to interrupt the cycle."
+},
+{
+  "id": 10,
+  "q": "How to improve emotional wellbeing daily?",
+  "a": "Sleep properly, hydrate, eat well, exercise, go outdoors, and connect with people you trust. Daily care builds emotional strength."
+},
+
+{
+  "id": 11,
+  "q": "Why do I feel exhausted even after sleeping?",
+  "a": "Irregular sleep cycles, screen time, caffeine, and anxiety reduce rest quality. Build a night routine with dim lights and no screens before bed."
+},
+{
+  "id": 12,
+  "q": "How to build self-confidence?",
+  "a": "Start with small wins daily. Keep promises to yourself. Avoid comparisons. Confidence grows when you consistently recognize your strengths."
+},
+{
+  "id": 13,
+  "q": "How do I stop comparing myself to others?",
+  "a": "Focus on your progress, reduce social media, and practice gratitude. Comparison blocks you from seeing your uniqueness."
+},
+{
+  "id": 14,
+  "q": "How to deal with negative self-talk?",
+  "a": "Challenge negative thoughts with facts. Replace harsh words with compassionate language. It retrains your brain over time."
+},
+{
+  "id": 15,
+  "q": "How to control anger?",
+  "a": "Pause before reacting. Breathe deeply, drink water, or take a short walk. Identify patterns through journaling."
+},
+{
+  "id": 16,
+  "q": "How to stop procrastination?",
+  "a": "Use the 2-minute rule: begin tasks for just two minutes. Break work into micro steps and reward yourself after finishing each one."
+},
+{
+  "id": 17,
+  "q": "Why do I feel lost sometimes?",
+  "a": "Feeling lost often comes from burnout or lack of clarity. Reflect on your goals, journal your emotions, and allow rest."
+},
+{
+  "id": 18,
+  "q": "How to recover from burnout?",
+  "a": "Prioritize rest, reduce workload, sleep more, go outdoors, slow down, and reintroduce activities gradually."
+},
+{
+  "id": 19,
+  "q": "How can journaling help mental health?",
+  "a": "It organizes thoughts, reduces anxiety, clears emotional pressure, and reveals patterns that help you understand yourself."
+},
+{
+  "id": 20,
+  "q": "How to deal with constant worry?",
+  "a": "Set a 10-minute worry time daily. Postpone all worries to that time. This trains your brain to stop worrying all day."
+},
+
+{
+  "id": 21,
+  "q": "What to do when feeling overwhelmed?",
+  "a": "Pause and breathe. List tasks by priority and handle one at a time. Overwhelm means you need structure—not speed."
+},
+{
+  "id": 22,
+  "q": "How to practice gratitude effectively?",
+  "a": "Write 3 small things daily that made you feel safe or happy. Gratitude shifts your focus from problems to possibilities."
+},
+{
+  "id": 23,
+  "q": "How to handle social anxiety?",
+  "a": "Start with small interactions. Prepare simple conversation starters. Slow breathing reduces physical symptoms of anxiety."
+},
+{
+  "id": 24,
+  "q": "Why do I lose interest in things I enjoyed?",
+  "a": "Stress, emotional overload, or burnout may reduce motivation. Reintroduce enjoyable activities slowly and allow rest."
+},
+{
+  "id": 25,
+  "q": "How to stop feeling guilty for taking breaks?",
+  "a": "Understand that rest is a biological need. Breaks improve focus and productivity—you are not lazy for needing them."
+},
+{
+  "id": 26,
+  "q": "How to manage fear of failure?",
+  "a": "Shift your mindset from perfection to progress. Break goals down and reward attempts, not just results."
+},
+{
+  "id": 27,
+  "q": "How to build emotional strength?",
+  "a": "Set boundaries, accept feelings instead of suppressing them, journal regularly, and practice mindfulness."
+},
+{
+  "id": 28,
+  "q": "Why do I feel unproductive even after working?",
+  "a": "Multitasking reduces satisfaction. Use focused sessions, track progress, and acknowledge your effort."
+},
+{
+  "id": 29,
+  "q": "How to avoid emotional burnout from social media?",
+  "a": "Limit screen time, unfollow toxic accounts, take weekend digital breaks, and set time boundaries."
+},
+{
+  "id": 30,
+  "q": "What are positive affirmations?",
+  "a": "They are positive statements repeated regularly to challenge negative thoughts and rewire your mindset."
+},
+
+{
+  "id": 31,
+  "q": "How to develop self-discipline?",
+  "a": "Create routines, remove distractions, sleep well, and track habits. Discipline grows through repetition."
+},
+{
+  "id": 32,
+  "q": "Why does my mind race at night?",
+  "a": "Your brain processes unresolved thoughts when it's quiet. Try writing a brain dump before sleeping."
+},
+{
+  "id": 33,
+  "q": "How to cope with rejection?",
+  "a": "Rejection doesn't define your worth. Reflect on what you learned and talk to someone you trust."
+},
+{
+  "id": 34,
+  "q": "How to manage expectations from others?",
+  "a": "Communicate openly and focus on what you can control—your actions, not others' reactions."
+},
+{
+  "id": 35,
+  "q": "Why am I irritated for no reason?",
+  "a": "Hidden stress, dehydration, lack of sleep, or overstimulation may cause irritability. Rest and hydrate."
+},
+{
+  "id": 36,
+  "q": "How to heal emotionally?",
+  "a": "Acknowledge your emotions, journal them, talk to someone safe, and give yourself time to heal."
+},
+{
+  "id": 37,
+  "q": "Why do I feel pressure to be perfect?",
+  "a": "Perfectionism often comes from fear of criticism or high expectations. Replace 'perfect' with 'enough'."
+},
+{
+  "id": 38,
+  "q": "How to improve focus while studying?",
+  "a": "Use the Pomodoro technique, keep water nearby, take breaks, and review old topics before starting."
+},
+{
+  "id": 39,
+  "q": "How to deal with emotional triggers?",
+  "a": "Identify triggers, understand why they affect you, breathe slowly, and plan healthier responses."
+},
+{
+  "id": 40,
+  "q": "How to stay calm in difficult situations?",
+  "a": "Pause, breathe deeply, and break the situation into small steps. Clarity brings calmness."
+},
+
+{
+  "id": 41,
+  "q": "Why do I feel anxious in crowds?",
+  "a": "Crowded spaces can overwhelm your senses. Practice grounding, visit smaller groups first, and build comfort gradually."
+},
+{
+  "id": 42,
+  "q": "How to reduce screen addiction?",
+  "a": "Set app limits, avoid screens during meals and before bed, and replace scrolling with healthier habits like reading or walking."
+},
+{
+  "id": 43,
+  "q": "How to handle criticism?",
+  "a": "Pause before reacting. Filter criticism: keep the helpful parts, ignore the harsh tone, and avoid taking things personally."
+},
+{
+  "id": 44,
+  "q": "How to increase mental resilience?",
+  "a": "Practicing gratitude, facing small challenges regularly, staying active, and building supportive relationships increases resilience."
+},
+{
+  "id": 45,
+  "q": "Why do I get mood swings?",
+  "a": "Hormonal changes, stress, lack of sleep, or dehydration can cause mood swings. Track triggers to understand patterns."
+},
+{
+  "id": 46,
+  "q": "How to stay positive during tough times?",
+  "a": "Focus on what you can control, break challenges into small tasks, and practice gratitude journaling."
+},
+{
+  "id": 47,
+  "q": "How to stop replaying embarrassing moments?",
+  "a": "Interrupt the thought with deep breathing, remind yourself that people forget quickly, and practice self-compassion."
+},
+{
+  "id": 48,
+  "q": "Why do I fear talking to new people?",
+  "a": "Fear of judgment or awkwardness is natural. Start small, prepare questions, and practice active listening."
+},
+{
+  "id": 49,
+  "q": "How to stay emotionally stable?",
+  "a": "Maintain routines, sleep well, express emotions, avoid bottling feelings, and practice mindfulness."
+},
+{
+  "id": 50,
+  "q": "How to stop feeling overwhelmed by responsibilities?",
+  "a": "Break tasks into manageable steps, prioritize responsibilities, ask for help when needed, and rest without guilt."
+},
+{
+  "id": 51,
+  "q": "Why do I feel mentally tired even if I did nothing?",
+  "a": "Mental exhaustion often comes from overthinking, emotional stress, or constant digital stimulation. Rest your mind with breaks, nature time, and screen-free routines."
+},
+{
+  "id": 52,
+  "q": "How to handle fear of the future?",
+  "a": "Focus on the next small step rather than the whole future. Uncertainty reduces when you take action toward what you can control today."
+},
+{
+  "id": 53,
+  "q": "How to be kinder to myself?",
+  "a": "Talk to yourself the way you would talk to a friend. Celebrate small wins, forgive mistakes, and acknowledge your efforts daily."
+},
+{
+  "id": 54,
+  "q": "What to do when I feel mentally stuck?",
+  "a": "Take a break, change your environment, stretch, hydrate, and return with a fresh perspective. Mental blocks fade with movement."
+},
+{
+  "id": 55,
+  "q": "Why do I avoid tasks even when they matter?",
+  "a": "Avoidance happens due to fear, overwhelm, or perfectionism. Break tasks into micro-steps and start with the smallest possible action."
+},
+{
+  "id": 56,
+  "q": "How to stop taking things personally?",
+  "a": "Remember that people’s reactions reflect their own life, not your worth. Pause, breathe, and look at the situation from an outside perspective."
+},
+{
+  "id": 57,
+  "q": "How do I manage my time better?",
+  "a": "Use task lists, prioritize the top 3 tasks of the day, avoid multitasking, and take short breaks to maintain focus."
+},
+{
+  "id": 58,
+  "q": "How to stay hopeful during bad days?",
+  "a": "Remind yourself that feelings are temporary. Do one comforting activity, talk to someone safe, and practice gratitude."
+},
+{
+  "id": 59,
+  "q": "Why do small things upset me?",
+  "a": "When your stress bucket is full, even minor issues feel big. Empty it with rest, expression, and healthy coping strategies."
+},
+{
+  "id": 60,
+  "q": "How to stay calm before a presentation?",
+  "a": "Take slow breaths, practice in front of a mirror, rehearse key points, and drink water. Confidence builds with repetition."
+},
+
+{
+  "id": 61,
+  "q": "Why do people ghost others?",
+  "a": "Ghosting usually reflects the other person’s discomfort or avoidance, not your worth. Lack of communication skills is a common reason."
+},
+{
+  "id": 62,
+  "q": "How to reduce negative thoughts?",
+  "a": "Replace them with realistic, balanced statements. Challenge each negative thought with: 'Is this true? Is it helpful?'"
+},
+{
+  "id": 63,
+  "q": "How to build emotional boundaries?",
+  "a": "Say no without guilt, limit access to draining people, protect your time, and prioritize your emotional needs."
+},
+{
+  "id": 64,
+  "q": "Why do I feel lonely even with people around?",
+  "a": "Loneliness is emotional, not physical. It comes from lack of meaningful connection. Try deeper conversations and expressive communication."
+},
+{
+  "id": 65,
+  "q": "How to develop a growth mindset?",
+  "a": "See challenges as opportunities, embrace mistakes as lessons, and focus on effort rather than perfection."
+},
+{
+  "id": 66,
+  "q": "How to handle unexpected stress?",
+  "a": "Pause, breathe slowly, list the situation’s facts, and handle one small action at a time instead of reacting emotionally."
+},
+{
+  "id": 67,
+  "q": "How to reduce exam fear?",
+  "a": "Practice mock tests, use active recall, revise regularly, sleep well, and avoid comparing your preparation with others."
+},
+{
+  "id": 68,
+  "q": "Why are habits hard to build?",
+  "a": "Habits require consistency, not intensity. Start small, attach habits to existing routines, and track progress visually."
+},
+{
+  "id": 69,
+  "q": "How to avoid morning anxiety?",
+  "a": "Avoid checking your phone first thing, stretch, drink water, step into sunlight, and plan your day the night before."
+},
+{
+  "id": 70,
+  "q": "How to stop getting overwhelmed by news?",
+  "a": "Limit consumption, avoid late-night news, follow balanced sources, and take breaks when information becomes emotionally heavy."
+},
+
+{
+  "id": 71,
+  "q": "Why is forgiveness important for mental health?",
+  "a": "Forgiveness frees you from emotional burden. It doesn’t justify the action but releases your mind from the pain."
+},
+{
+  "id": 72,
+  "q": "How to deal with emotional numbness?",
+  "a": "Try grounding activities, talk to someone safe, journal daily, and engage in creative or sensory activities like music or art."
+},
+{
+  "id": 73,
+  "q": "How to stop comparing my progress with others?",
+  "a": "Track your own journey. Set personal milestones, limit social media, and celebrate your unique timeline."
+},
+{
+  "id": 74,
+  "q": "Why do I crave validation?",
+  "a": "Humans seek acceptance, but excessive validation-seeking comes from low self-worth. Build inner confidence through self-appreciation."
+},
+{
+  "id": 75,
+  "q": "How to control emotional eating?",
+  "a": "Identify triggers, drink water before eating, keep healthy snacks nearby, and use journaling instead of food to process emotions."
+},
+{
+  "id": 76,
+  "q": "How to stay focused in noisy environments?",
+  "a": "Use noise-cancellation, soft music, or white noise. Break tasks into chunks and keep your study space organized."
+},
+{
+  "id": 77,
+  "q": "How to stop late-night overthinking?",
+  "a": "Avoid screens before bed, write down thoughts to clear your mind, practice deep breathing, and maintain a sleep routine."
+},
+{
+  "id": 78,
+  "q": "Why do I feel emotionally drained after socializing?",
+  "a": "Social interactions require emotional energy. Introverts especially need quiet time afterward to recharge."
+},
+{
+  "id": 79,
+  "q": "How to calm a racing heart from anxiety?",
+  "a": "Take slow deep breaths, drink water, relax your shoulders, and use grounding techniques. The heart rate settles as anxiety decreases."
+},
+{
+  "id": 80,
+  "q": "How to deal with fear of judgment?",
+  "a": "Understand that most people are focused on themselves. Build confidence by doing small brave actions daily."
+},
+
+{
+  "id": 81,
+  "q": "How to stay emotionally balanced during conflicts?",
+  "a": "Pause before reacting, listen actively, avoid harsh words, and express feelings clearly and respectfully."
+},
+{
+  "id": 82,
+  "q": "Why do I get mentally tired by small tasks?",
+  "a": "Your brain might be overstimulated, overwhelmed, or stressed. Use short breaks, hydrate well, and simplify tasks."
+},
+{
+  "id": 83,
+  "q": "How to reduce fear of making mistakes?",
+  "a": "Understand mistakes are part of learning. Reframe them as lessons and track improvements instead of failures."
+},
+{
+  "id": 84,
+  "q": "How to stop worrying about people's opinions?",
+  "a": "Remind yourself that opinions change, and you cannot control them. Prioritize your values over external validation."
+},
+{
+  "id": 85,
+  "q": "How to improve self-awareness?",
+  "a": "Journal daily, observe your emotions, reflect on reactions, and ask yourself why you feel a certain way."
+},
+{
+  "id": 86,
+  "q": "Why do I get irritated when plans change?",
+  "a": "The brain likes predictability. Sudden changes cause stress. Practice flexibility slowly by accepting small changes first."
+},
+{
+  "id": 87,
+  "q": "How to stay strong emotionally when life gets hard?",
+  "a": "Focus on one day at a time, maintain routines, talk to supportive people, and rest when needed."
+},
+{
+  "id": 88,
+  "q": "How to stop feeling guilty for saying no?",
+  "a": "Understand that boundaries protect your energy. Saying no is self-respect, not selfishness."
+},
+{
+  "id": 89,
+  "q": "How to manage emotional overload?",
+  "a": "Pause, breathe slowly, journal, reduce stimulation, and speak to someone you trust. Overload reduces with expression."
+},
+{
+  "id": 90,
+  "q": "Why do I get attached easily?",
+  "a": "Quick attachment often comes from fear of abandonment, loneliness, or needing connection. Building self-love reduces dependence on others."
+},
+{
+  "id": 91,
+  "q": "How to stay motivated for long-term goals?",
+  "a": "Break long-term goals into weekly milestones. Celebrate progress, track habits visually, and remind yourself why the goal matters."
+},
+{
+  "id": 92,
+  "q": "Why do I feel emotionally sensitive?",
+  "a": "Emotional sensitivity can come from stress, trauma, lack of sleep, or personality traits. Practice grounding and emotional boundaries."
+},
+{
+  "id": 93,
+  "q": "How to prevent burnout while studying?",
+  "a": "Use study intervals with breaks, hydrate regularly, exercise lightly, and avoid multitasking to protect your mental energy."
+},
+{
+  "id": 94,
+  "q": "How to stop feeling like a failure?",
+  "a": "Failure is an event, not your identity. Reflect on what you learned, adjust your approach, and acknowledge your efforts."
+},
+{
+  "id": 95,
+  "q": "How to handle emotional pain silently?",
+  "a": "You don’t need to carry pain alone. Journaling, grounding, mindfulness, and talking to one safe person can ease emotional heaviness."
+},
+{
+  "id": 96,
+  "q": "Why do I feel overwhelmed by responsibilities?",
+  "a": "Too many tasks without structure cause overwhelm. Prioritize, delegate when possible, and break tasks into clear steps."
+},
+{
+  "id": 97,
+  "q": "How to deal with loneliness at night?",
+  "a": "Avoid screens before bed, listen to calming music, journal your thoughts, and practice deep breathing to calm nighttime loneliness."
+},
+{
+  "id": 98,
+  "q": "Why do I fear losing people?",
+  "a": "Fear of loss comes from past experiences or low self-worth. Focus on building self-love and trust in healthy relationships."
+},
+{
+  "id": 99,
+  "q": "How to stop emotional breakdowns?",
+  "a": "Recognize early signs like irritability and fatigue. Take breaks, drink water, breathe slowly, and express feelings instead of suppressing them."
+},
+{
+  "id": 100,
+  "q": "How to stay confident socially?",
+  "a": "Practice open body language, maintain eye contact, prepare a few topics, and build confidence through small interactions."
+},
+
+{
+  "id": 101,
+  "q": "How to avoid self-doubt?",
+  "a": "Challenge negative thoughts, acknowledge achievements, avoid comparison, and practice positive self-talk daily."
+},
+{
+  "id": 102,
+  "q": "Why do memories of past mistakes hurt?",
+  "a": "The brain remembers emotional pain strongly. Reframe the memory as a lesson rather than a punishment."
+},
+{
+  "id": 103,
+  "q": "How to stay mentally strong during studies?",
+  "a": "Maintain sleep, eat well, exercise regularly, practice mindfulness, and follow a realistic study timetable."
+},
+{
+  "id": 104,
+  "q": "How to control intrusive thoughts?",
+  "a": "Don’t fight them. Acknowledge and let them pass. Practice grounding, mindful breathing, and distraction techniques."
+},
+{
+  "id": 105,
+  "q": "How to stop feeling empty?",
+  "a": "Emptiness often comes from emotional exhaustion. Reconnect with meaningful activities, relationships, and self-expression."
+},
+{
+  "id": 106,
+  "q": "Why do I avoid confronting problems?",
+  "a": "Fear of discomfort or conflict leads to avoidance. Face problems in small steps and remind yourself that avoidance increases stress."
+},
+{
+  "id": 107,
+  "q": "How to build emotional patience?",
+  "a": "Practice slow breathing, observe thoughts without reacting, and give yourself time before responding to emotional situations."
+},
+{
+  "id": 108,
+  "q": "Why do I overthink what people say?",
+  "a": "Overanalysis comes from fear of judgment. Ground yourself in facts and ask if the thought is logical or fear-based."
+},
+{
+  "id": 109,
+  "q": "How to stay calm during emotional conflict?",
+  "a": "Pause, breathe deeply, avoid reacting instantly, and express your feelings calmly using 'I' statements."
+},
+{
+  "id": 110,
+  "q": "How to reduce guilt from past actions?",
+  "a": "Accept responsibility once, learn from it, apologize if needed, and practice self-forgiveness. Growth is more important than perfection."
+},
+
+{
+  "id": 111,
+  "q": "How to avoid emotional burnout?",
+  "a": "Set boundaries, take breaks, reduce multitasking, practice self-care, and regularly do activities you truly enjoy."
+},
+{
+  "id": 112,
+  "q": "How to stop being too nice to everyone?",
+  "a": "Set limits, say no when you need to, prioritize your needs, and remind yourself that people pleasing harms emotional health."
+},
+{
+  "id": 113,
+  "q": "Why do I feel emotionally disconnected?",
+  "a": "Disconnection happens after prolonged stress or emotional overload. Rest, reconnect slowly, and express feelings gradually."
+},
+{
+  "id": 114,
+  "q": "How to regain interest in life?",
+  "a": "Start with small enjoyable activities, talk to others, go outdoors, and set daily routines to reignite motivation."
+},
+{
+  "id": 115,
+  "q": "Why does stress affect my body?",
+  "a": "Stress triggers cortisol, affecting sleep, appetite, immunity, and mood. Breathing exercises and proper rest reduce cortisol levels."
+},
+{
+  "id": 116,
+  "q": "How to stop comparing my life to social media?",
+  "a": "Remember social media shows highlights, not reality. Limit usage and follow accounts that inspire rather than drain you."
+},
+{
+  "id": 117,
+  "q": "How to recognize emotional triggers?",
+  "a": "Pay attention to what situations cause strong emotions. Track patterns in a journal to understand your triggers better."
+},
+{
+  "id": 118,
+  "q": "How to express emotions without crying?",
+  "a": "Take deep breaths, pause before speaking, write your thoughts first, and practice expressing emotions in small conversations."
+},
+{
+  "id": 119,
+  "q": "How to refill emotional energy?",
+  "a": "Rest properly, engage in hobbies, spend time in nature, talk to loved ones, and practice mindfulness or meditation."
+},
+{
+  "id": 120,
+  "q": "How to stay mentally stable during pressure?",
+  "a": "Break tasks into manageable steps, practice grounding, avoid multitasking, and remind yourself that pressure is temporary."
+},
+{
+  "id": 121,
+  "q": "How to deal with emotional flashbacks?",
+  "a": "Ground yourself by focusing on your senses, remind yourself you are safe, breathe deeply, and anchor your mind in the present moment."
+},
+{
+  "id": 122,
+  "q": "How to calm an anxious mind?",
+  "a": "Use slow breathing, name your thoughts instead of fighting them, reduce stimulants like caffeine, and take short mindful breaks."
+},
+{
+  "id": 123,
+  "q": "Why do I get stressed easily?",
+  "a": "A busy mind, unresolved emotions, or low rest can lower tolerance to stress. Build routines that include rest, exercise, and organization."
+},
+{
+  "id": 124,
+  "q": "How to control emotional reactions?",
+  "a": "Pause before reacting, breathe, observe your emotions without judgment, and respond once your mind is calmer."
+},
+{
+  "id": 125,
+  "q": "How to stop thinking worst-case scenarios?",
+  "a": "Challenge catastrophic thinking by asking: 'What is the most realistic outcome?' Practice grounding and focus on what you can control."
+},
+{
+  "id": 126,
+  "q": "Why do I feel like crying for no reason?",
+  "a": "Emotional buildup, hormonal imbalance, stress, or exhaustion can make tears feel sudden. Rest, hydrate, and express your feelings safely."
+},
+{
+  "id": 127,
+  "q": "How to reduce mental clutter?",
+  "a": "Write down your thoughts, prioritize tasks, declutter your environment, and limit multitasking to calm your mind."
+},
+{
+  "id": 128,
+  "q": "How to deal with someone who drains my energy?",
+  "a": "Set boundaries, limit conversations, protect your emotional space, and avoid taking their negativity personally."
+},
+{
+  "id": 129,
+  "q": "How to regulate emotions during stress?",
+  "a": "Use grounding, slow breathing, and self-talk. Break stressful tasks into steps and focus on one thing at a time."
+},
+{
+  "id": 130,
+  "q": "How to stop feeling like I'm not enough?",
+  "a": "Practice self-compassion, challenge negative beliefs, list your strengths, and avoid comparing your journey to others."
+},
+
+{
+  "id": 131,
+  "q": "How to build long-term mental strength?",
+  "a": "Maintain routines, exercise, journal, avoid toxic environments, and build healthy relationships that support growth."
+},
+{
+  "id": 132,
+  "q": "How to break the cycle of overthinking?",
+  "a": "Interrupt thoughts with action, distract your mind with a task, journal worries, and use breathing exercises to quiet mental noise."
+},
+{
+  "id": 133,
+  "q": "Why do small failures hurt a lot?",
+  "a": "Your brain magnifies negative events. Reframe them as steps in learning and remind yourself of your past successes."
+},
+{
+  "id": 134,
+  "q": "How to handle emotional exhaustion?",
+  "a": "Take meaningful rest, reduce commitments, hydrate well, talk to someone you trust, and avoid emotional suppression."
+},
+{
+  "id": 135,
+  "q": "How to stop obsessing over things I can’t control?",
+  "a": "Shift focus to your actions, not outcomes. Accept uncertainty, practice mindfulness, and limit exposure to triggers."
+},
+{
+  "id": 136,
+  "q": "How to feel more grounded daily?",
+  "a": "Practice mindful breathing, take morning sunlight, keep a clean environment, and do small physical activities like stretching."
+},
+{
+  "id": 137,
+  "q": "Why do I feel uncomfortable expressing my emotions?",
+  "a": "Past experiences, fear of judgment, or lack of practice can make expression hard. Start small and communicate gradually."
+},
+{
+  "id": 138,
+  "q": "How to stay emotionally independent?",
+  "a": "Build self-esteem, practice solitude, set boundaries, and rely on your own validation instead of seeking it externally."
+}
+]
+

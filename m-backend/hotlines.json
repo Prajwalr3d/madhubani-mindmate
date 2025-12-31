@@ -1,0 +1,9 @@
+{
+    "country": "India",
+    "hotlines": [
+      { "name": "National Helpline (Kiran)", "number": "9152987821", "notes": "24x7 mental health helpline (example)" },
+      { "name": "Emergency", "number": "112", "notes": "General emergency number" },
+      { "name": "AASRA (suicide prevention)", "number": "91-22-2754-6669", "notes": "Helpline (example)" }
+    ]
+  }
+  

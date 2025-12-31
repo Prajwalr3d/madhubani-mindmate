@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "specialty": "Psychiatrist",
+      "name": "Dr. A. Sharma",
+      "number": "+91-98765-43210",
+      "city": "Dehradun",
+      "notes": "Clinical psychiatrist — medication & complex cases"
+    },
+    {
+      "id": 2,
+      "specialty": "Clinical Psychologist",
+      "name": "Dr. Meera Singh",
+      "number": "+91-91234-56789",
+      "city": "Rishikesh",
+      "notes": "CBT and talk therapy"
+    },
+    {
+      "id": 3,
+      "specialty": "Counselor / Therapist",
+      "name": "Ms. R. Kapoor",
+      "number": "+91-90000-11111",
+      "city": "Dehradun",
+      "notes": "Short-term counseling and coping skills"
+    },
+    {
+      "id": 4,
+      "specialty": "Sleep Specialist",
+      "name": "Dr. S. Verma",
+      "number": "+91-90000-22222",
+      "city": "Nainital",
+      "notes": "Sleep disorders and behavioral sleep medicine"
+    },
+    {
+      "id": 5,
+      "specialty": "Emergency Helpline",
+      "name": "National Emergency",
+      "number": "112",
+      "city": "Nationwide",
+      "notes": "General emergency number"
+    },
+    {
+      "id": 6,
+      "specialty": "Suicide Prevention Helpline",
+      "name": "KIRAN (example)",
+      "number": "+91-91529-87821",
+      "city": "Nationwide",
+      "notes": "Mental health helpline (example number)"
+    },
+    {
+      "id": 7,
+      "specialty": "Child & Adolescent Psychiatrist",
+      "name": "Dr. N. Patel",
+      "number": "+91-90000-33333",
+      "city": "Dehradun",
+      "notes": "Specialist for young people and families"
+    },
+    {
+      "id": 8,
+      "specialty": "Telehealth Counselor",
+      "name": "MindCare Telecounsel",
+      
+      "number": "+91-90000-44444",
+      "city": "Online",
+      "notes": "Remote counseling, appointments via phone"
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Custom global styles --- */
+body {
+  @apply bg-violetSoft text-textDark font-sans;
+}
+
+/* Smooth scroll for better UX */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Scrollbar customization */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(107, 33, 168, 0.3);
+  border-radius: 4px;
+}
+
+/* Simple Madhubani header border pattern */
+.madhubani-border {
+  background-image: repeating-linear-gradient(
+    45deg,
+    #6B21A8 0 10px,
+    #FF6FB5 10px 20px
+  );
+  height: 6px;
+  width: 100%;
+}

@@ -1,0 +1,50 @@
+{"ts":"2025-11-08T20:05:20.167Z","type":"incoming","userId":"anon","ip":"::1","text":"hello"}
+{"ts":"2025-11-08T20:05:20.167Z","type":"bot","userId":"anon","reply":"Hey — I'm MindMate. How are you feeling today?","crisis":false}
+{"ts":"2025-11-08T20:06:45.356Z","type":"incoming","userId":"anon","ip":"::1","text":"hello"}
+{"ts":"2025-11-08T20:06:45.356Z","type":"bot","userId":"anon","reply":"Hey — I'm MindMate. How are you feeling today?","crisis":false}
+{"ts":"2025-11-08T20:06:49.118Z","type":"incoming","userId":"anon","ip":"::1","text":"hi"}
+{"ts":"2025-11-08T20:06:49.120Z","type":"bot","userId":"anon","reply":"Hey — I'm MindMate. How are you feeling today?","crisis":false}
+{"ts":"2025-11-08T20:06:57.021Z","type":"incoming","userId":"anon","ip":"::1","text":"kill"}
+{"ts":"2025-11-08T20:06:57.021Z","type":"bot","userId":"anon","reply":"Thanks for sharing — you said: \"kill\". Would you like a breathing or grounding exercise, or to talk more about what's happening?","crisis":false}
+{"ts":"2025-11-08T20:07:13.194Z","type":"incoming","userId":"anon","ip":"::1","text":"i am feeling tired"}
+{"ts":"2025-11-08T20:07:13.195Z","type":"bot","userId":"anon","reply":"Thanks for sharing — you said: \"i am feeling tired\". Would you like a breathing or grounding exercise, or to talk more about what's happening?","crisis":false}
+{"ts":"2025-11-08T20:07:23.837Z","type":"bot","userId":"anon","reply":"Thanks for sharing — you said: \"i like you\". Would you like a breathing or grounding exercise, or to talk more about what's happening?","crisis":false}
+{"ts":"2025-11-08T20:07:23.837Z","type":"incoming","userId":"anon","ip":"::1","text":"i like you"}
+{"ts":"2025-11-08T20:07:28.884Z","type":"incoming","userId":"anon","ip":"::1","text":"no"}
+{"ts":"2025-11-08T20:07:28.885Z","type":"bot","userId":"anon","reply":"Thanks for sharing — you said: \"no\". Would you like a breathing or grounding exercise, or to talk more about what's happening?","crisis":false}
+{"ts":"2025-11-08T20:07:38.725Z","type":"bot","userId":"anon","reply":"I'm really sorry you're feeling this way. I'm not able to help in emergencies. If you are in immediate danger, please call your local emergency number right now. Would you like local hotlines I can show you?","crisis":true}
+{"ts":"2025-11-08T20:07:38.725Z","type":"incoming","userId":"anon","ip":"::1","text":"suicide"}
+{"ts":"2025-11-09T09:11:32.980Z","type":"incoming","userId":"anon","ip":"::1","text":"hello"}
+{"ts":"2025-11-09T09:11:32.980Z","type":"bot","userId":"anon","reply":"Hey — I'm MindMate. How are you feeling today?","crisis":false}
+{"ts":"2025-11-09T09:11:36.671Z","type":"bot","userId":"anon","reply":"That sounds really heavy. I'm here with you. Want a grounding exercise (name 5 things you can see)?","crisis":false}
+{"ts":"2025-11-09T09:11:36.670Z","type":"incoming","userId":"anon","ip":"::1","text":"sad"}
+{"ts":"2025-11-09T09:12:32.672Z","type":"incoming","userId":"anon","ip":"::1","text":"cloths, cake ,rope,knife,fire"}
+{"ts":"2025-11-09T09:12:32.672Z","type":"bot","userId":"anon","reply":"Thanks for sharing — you said: \"cloths, cake ,rope,knife,fire\". Would you like a breathing or grounding exercise, or to talk more about what's happening?","crisis":false}
+{"ts":"2025-11-09T09:12:40.034Z","type":"incoming","userId":"anon","ip":"::1","text":"yes"}
+{"ts":"2025-11-09T09:12:40.034Z","type":"bot","userId":"anon","reply":"Thanks for sharing — you said: \"yes\". Would you like a breathing or grounding exercise, or to talk more about what's happening?","crisis":false}
+{"ts":"2025-11-09T09:12:50.095Z","type":"incoming","userId":"anon","ip":"::1","text":"yes"}
+{"ts":"2025-11-09T09:12:50.095Z","type":"bot","userId":"anon","reply":"Thanks for sharing — you said: \"yes\". Would you like a breathing or grounding exercise, or to talk more about what's happening?","crisis":false}
+{"ts":"2025-11-09T09:12:58.533Z","type":"incoming","userId":"anon","ip":"::1","text":"suicide"}
+{"ts":"2025-11-09T09:12:58.533Z","type":"bot","userId":"anon","reply":"I'm really sorry you're feeling this way. I'm not able to help in emergencies. If you are in immediate danger, please call your local emergency number right now. Would you like local hotlines I can show you?","crisis":true}
+{"ts":"2025-11-09T09:13:19.621Z","type":"incoming","userId":"anon","ip":"::1","text":"kill me"}
+{"ts":"2025-11-09T09:13:19.621Z","type":"bot","userId":"anon","reply":"I'm really sorry you're feeling this way. I'm not able to help in emergencies. If you are in immediate danger, please call your local emergency number right now. Would you like local hotlines I can show you?","crisis":true}
+{"ts":"2025-11-09T09:13:39.835Z","type":"incoming","userId":"anon","ip":"::1","text":"i want a shoulder to hang out"}
+{"ts":"2025-11-09T09:13:39.835Z","type":"bot","userId":"anon","reply":"Thanks for sharing — you said: \"i want a shoulder to hang out\". Would you like a breathing or grounding exercise, or to talk more about what's happening?","crisis":false}
+{"ts":"2025-11-09T09:29:07.955Z","type":"incoming","userId":"anon","text":"I feel anxious"}
+{"ts":"2025-11-09T09:29:07.957Z","type":"bot","userId":"anon","reply":"That sounds tough. Want to try a short grounding exercise with me? Also, would you like a 1-minute breathing guide now? (type 'breath')","intent":"anxiety","sentimentScore":-2}
+{"ts":"2025-11-09T09:29:46.577Z","type":"incoming","userId":"anon","text":"kill"}
+{"ts":"2025-11-09T09:29:46.579Z","type":"bot","userId":"anon","reply":"I'm really sorry you're going through this. Do you want a breathing exercise or to tell me more?","intent":"unknown","sentimentScore":-3}
+{"ts":"2025-11-09T09:29:57.680Z","type":"incoming","userId":"anon","text":"help"}
+{"ts":"2025-11-09T09:29:57.681Z","type":"bot","userId":"anon","reply":"I can offer coping exercises, grounding prompts, or local resources. What would help most right now?","intent":"help","sentimentScore":2}
+{"ts":"2025-11-09T09:30:09.107Z","type":"incoming","userId":"anon","text":"excercises"}
+{"ts":"2025-11-09T09:30:09.108Z","type":"bot","userId":"anon","reply":"I'm listening. Could you describe that a little more so I can try to help?","intent":"unknown","sentimentScore":0}
+{"ts":"2025-11-09T09:30:16.868Z","type":"incoming","userId":"anon","text":"you suck"}
+{"ts":"2025-11-09T09:30:16.868Z","type":"bot","userId":"anon","reply":"I'm really sorry you're going through this. Do you want a breathing exercise or to tell me more?","intent":"unknown","sentimentScore":-3}
+{"ts":"2025-11-09T09:30:23.002Z","type":"incoming","userId":"anon","text":"pop"}
+{"ts":"2025-11-09T09:30:23.002Z","type":"bot","userId":"anon","reply":"I'm listening. Could you describe that a little more so I can try to help?","intent":"unknown","sentimentScore":0}
+{"ts":"2025-11-09T09:46:32.650Z","type":"incoming","userId":"anon","text":"hi"}
+{"ts":"2025-11-09T09:46:32.650Z","type":"bot","userId":"anon","reply":"Hey — I'm MindMate. How are you feeling today?","intent":"greeting","sentimentScore":0}
+{"ts":"2025-11-09T09:46:39.521Z","type":"incoming","userId":"anon","text":"sad"}
+{"ts":"2025-11-09T09:46:39.522Z","type":"bot","userId":"anon","reply":"I'm really sorry you're feeling so low. Would you like a small step: name one thing that felt okay today?","intent":"depression","sentimentScore":-2}
+{"ts":"2025-11-09T09:46:47.338Z","type":"incoming","userId":"anon","text":"frustrated"}
+{"ts":"2025-11-09T09:46:47.338Z","type":"bot","userId":"anon","reply":"That sounds difficult. Would a grounding exercise help, or do you want to talk more about it?","intent":"unknown","sentimentScore":-2}

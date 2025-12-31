@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "title": "4-4-4 Breathing for Bedtime",
+      "summary": "A short breathing routine to calm your nervous system before sleep.",
+      "steps": [
+        "Lie down comfortably or sit with your back supported.",
+        "Breathe in slowly for 4 seconds.",
+        "Hold gently for 4 seconds.",
+        "Exhale slowly for 4 seconds.",
+        "Repeat the cycle 5–8 times, focusing on the breath."
+      ],
+      "duration_minutes": 3,
+      "tags": ["breathing", "calming", "pre-sleep"]
+    },
+    {
+      "id": 2,
+      "title": "Wind-Down Routine (30 minutes)",
+      "summary": "Create a gentle routine that tells your body it’s time to rest.",
+      "steps": [
+        "Dim the lights and reduce screen use at least 30 minutes before bed.",
+        "Make a warm (non-caffeinated) drink like herbal tea.",
+        "Do light stretching or progressive muscle relaxation for 5–7 minutes.",
+        "Write a quick 2–3 line gratitude note or a brief to-do list for tomorrow."
+      ],
+      "duration_minutes": 30,
+      "tags": ["sleep hygiene", "routine", "relaxation"]
+    },
+    {
+      "id": 3,
+      "title": "Bedroom Rituals for Better Sleep",
+      "summary": "Small environmental changes that help your brain associate bed with sleep.",
+      "steps": [
+        "Keep your bedroom cool, dark, and quiet — use earplugs or a white-noise app if needed.",
+        "Reserve the bed for sleep and rest (avoid working or studying in bed).",
+        "Use calming colors, soft bedding, and a comfortable pillow.",
+        "If you can, get 15–20 minutes of morning sunlight exposure daily to regulate your circadian rhythm."
+      ],
+      "duration_minutes": 10,
+      "tags": ["environment", "sleep hygiene"]
+    },
+    {
+      "id": 4,
+      "title": "Progressive Muscle Relaxation (10 minutes)",
+      "summary": "A guided practice to release tension from head to toe.",
+      "steps": [
+        "Lie down and take three slow, deep breaths.",
+        "Tense the muscles in your toes for 5 seconds, then release.",
+        "Move up to calves, thighs, abdomen, chest, hands, arms, shoulders, neck, and face — tense then release each group.",
+        "Notice the contrast between tension and relaxation as you go."
+      ],
+      "duration_minutes": 10,
+      "tags": ["relaxation", "body scan"]
+    },
+    {
+      "id": 5,
+      "title": "Limit Stimulants & Screen Time",
+      "summary": "Simple lifestyle adjustments that improve sleep quality over time.",
+      "steps": [
+        "Avoid caffeine in the late afternoon and evening (tea, coffee, energy drinks).",
+        "Avoid heavy meals and vigorous exercise within 2–3 hours of bedtime.",
+        "If you must use screens, enable a warm-night filter and lower brightness.",
+        "Try a short walk earlier in the evening to help tire the body gently."
+      ],
+      "duration_minutes": 0,
+      "tags": ["lifestyle", "sleep hygiene"]
+    },
+    {
+      "id": 6,
+      "title": "If You Can’t Sleep: The 20-Minute Rule",
+      "summary": "A gentle strategy to avoid anxious nights when sleep doesn’t come.",
+      "steps": [
+        "If you haven’t fallen asleep within 20 minutes, get out of bed.",
+        "Do a calm, low-light activity (reading a paper book, light stretching) in another room.",
+        "Return to bed only when you feel sleepy.",
+        "Repeat if necessary — avoid checking the time or your phone."
+      ],
+      "duration_minutes": 0,
+      "tags": ["insomnia", "behavioral"]
+    },
+    {
+      "id": 7,
+      "title": "Sleep Journal (track patterns)",
+      "summary": "Record simple sleep details to identify helpful routines and triggers.",
+      "steps": [
+        "Note bedtime and wake time each day.",
+        "Record naps, caffeine intake, exercise, and mood before bed.",
+        "After a week, look for patterns: which habits helped or harmed sleep.",
+        "Share the journal with a clinician if you seek professional help."
+      ],
+      "duration_minutes": 5,
+      "tags": ["tracking", "insights"]
+    },
+    {
+      "id": 8,
+      "title": "Gentle Evening Mindfulness",
+      "summary": "A short mindfulness practice to settle the mind before sleep.",
+      "steps": [
+        "Sit or lie comfortably and focus on your breath.",
+        "Notice thoughts as they come, label them gently ('thinking') and return to the breath.",
+        "If your mind wanders, guide it back without judgment.",
+        "Practice for 5–10 minutes, then allow yourself to drift into sleep."
+      ],
+      "duration_minutes": 8,
+      "tags": ["mindfulness", "calming"]
+    }
+  ]
+  
