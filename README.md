@@ -1,4 +1,5 @@
 #Core IDEA
+
 Mental health support systems lack intelligent, personalized early detection, as most existing chatbots rely on static, rule-based responses. There is a need for an AI and ML-driven mental health chatbot that can analyze user conversations using NLP to detect emotional distress and provide context-aware, ethical support.
 
 The chatbot is designed to provide a safe and non-judgmental space where users can express emotional concerns such as stress, anxiety, loneliness, burnout, and overthinking.
@@ -19,6 +20,7 @@ A rule-based crisis detection mechanism is placed before the language model to i
 
 Madhubani MindMate is a mental health chatbot designed to provide calm, empathetic, and supportive responses.  
 It combines a rule-based frontend with a fine-tuned language model deployed via Hugging Face.
+------
 
 #Team Mate Contribution
 Team Leader and Frontend :Gaurav Kandpal
