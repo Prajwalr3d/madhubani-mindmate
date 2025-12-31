@@ -81,7 +81,7 @@ CHAT BOT INTERFACE
 ###FINE TUNNING RESPONSE
 <img width="1366" height="768" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/10cacbd9-a9d3-4cfe-b303-f423f4a2ee14" />
 
-#Future Enhancements
+-------------------------------------------------#Future Enhancements [ROUND 2]---------------------------------------------------------------------------------------------------------------------------
 User mood tracking and journaling
 
 Personalized responses 
