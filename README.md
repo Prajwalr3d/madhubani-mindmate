@@ -22,6 +22,11 @@ Madhubani MindMate is a mental health chatbot designed to provide calm, empathet
 It combines a rule-based frontend with a fine-tuned language model deployed via Hugging Face.
 ------
 
+
+
+
+
+---
 #Team Mate Contribution
 Team Leader and Frontend :Gaurav Kandpal
 Backend Developer and ML: Prajwal Surya
@@ -30,7 +35,8 @@ Frontend and Data Cleaning:Lakshit Pandey
 
 
 
----
+
+
 
 #Features
 
