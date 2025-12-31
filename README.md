@@ -59,19 +59,28 @@ uvicorn app:app --reload
 python app.py
 
 ---------------------------------------------------------------------------SCREENSHORTS--------------------------------------------------------------------------------
-## 📸 Project Screenshots
+##  Project Screenshots
 
-### 🔁 Flow Chart
+##  Screenshots
+
+###  All Screenshots (Drive)
+https://drive.google.com/drive/folders/1vx38qRDrQfYZEtjU05o21RyRKYwWdPEH?usp=drive_link
+
+---
+
+## Flow Chart
+
 ![Flow Chart](https://github.com/user-attachments/assets/729704fb-9606-4b2f-87ef-b2772d5e1222)
 
 ---
 
-### 🗂️ Data Flow Diagram (DFD)
+##  Data Flow Diagram (DFD)
+
 ![DFD](https://github.com/user-attachments/assets/e3c4db17-e83b-4590-8505-aecca081cb5f)
 
 ---
 
-### 💬 Chatbot Interface
+##  Chatbot Interface
 
 ![Chat UI 1](https://github.com/user-attachments/assets/f36df54f-fa0b-4544-8d69-92a898387861)
 
@@ -85,14 +94,10 @@ python app.py
 
 ---
 
-### 🧠 Fine-tuning Response Example
-![Fine Tuning](https://github.com/user-attachments/assets/10cacbd9-a9d3-4cfe-b303-f423f4a2ee14)
+##  Fine-Tuned Response Example
 
----
+![Fine Tuned Response](https://github.com/user-attachments/assets/10cacbd9-a9d3-4cfe-b303-f423f4a2ee14)
 
-## 🔗 Additional Media
-📁 Full-resolution screenshots and videos:  
-https://drive.google.com/drive/folders/1vx38qRDrQfYZEtjU05o21RyRKYwWdPEH?usp=drive_link
 
 
 
