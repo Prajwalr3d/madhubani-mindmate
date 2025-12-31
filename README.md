@@ -1,3 +1,5 @@
+DOMAIN:ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+-------
 #Core IDEA
 
 Mental health support systems lack intelligent, personalized early detection, as most existing chatbots rely on static, rule-based responses. There is a need for an AI and ML-driven mental health chatbot that can analyze user conversations using NLP to detect emotional distress and provide context-aware, ethical support.
