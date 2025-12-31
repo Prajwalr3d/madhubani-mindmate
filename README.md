@@ -45,7 +45,7 @@ Frontend and Data Cleaning:Lakshit Pandey
 - FastAPI backend
 - Frontend chat interface
 - Secure environment variable handling
-- Hugging Face–hosted fine-tuned model (LoRA)
+- Hugging Face–hosted fine-tuned model (LoRA):https://huggingface.co/DPrajwalxI/madhubani-mindmate-lora
 - Trained on responses 
 
 ---
