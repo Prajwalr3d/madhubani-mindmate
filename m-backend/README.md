@@ -58,4 +58,5 @@ HF_TOKEN=your_huggingface_token_here
 uvicorn app:app --reload
 python app.py
 
-
+## Screen Short
+<img width="1366" height="768" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/47881174-f872-4821-897b-71e8d77cfda7" />
