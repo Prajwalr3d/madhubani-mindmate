@@ -58,6 +58,13 @@ HF_TOKEN=your_huggingface_token_here
 uvicorn app:app --reload
 python app.py
 
+
+-----------------------------------------------------------------------------------------------
+ALL SCREENSHORTS LINKS:
+https://drive.google.com/drive/folders/1vx38qRDrQfYZEtjU05o21RyRKYwWdPEH?usp=drive_link
+------------------------------------------------------------------------------------------------
+
+
 ## Screen Short
 FLOW CHART---
 ![flowchart  _page-0001](https://github.com/user-attachments/assets/729704fb-9606-4b2f-87ef-b2772d5e1222)
